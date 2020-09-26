@@ -1,0 +1,13 @@
+{
+  "name": "LCD",
+  "keywords": "Arduino, LCD, LiquidCrystal, HD44780, TextLCD",
+  "description": "An Arduino library for text LCDs with HD44780.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sstaub/LCD"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
