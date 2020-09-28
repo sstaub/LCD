@@ -10,7 +10,7 @@ When using PlatformIO, to support *float* you must add following line in platfor
 ## Installation
 
 1. "Download":https://github.com/sstaub/LCDi2c/archive/master.zip the Master branch from GitHub.
-2. Unzip and modify the folder name to "sLCD"
+2. Unzip and modify the folder name to "LCD"
 3. Move the modified folder on your Library folder.
 
 
